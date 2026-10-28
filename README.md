@@ -4,6 +4,10 @@ A complete, dreamlike **floating-islands browser game** built with Three.js — 
 
 **▶ Play it live:** https://sky-isles.bles-software.com
 
+**Deploy your own copy:** [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsalthapaliya2030-cyber%2Fsky-isles)
+
+*The button imports this repository into your own Vercel account. GitHub/Vercel sign-in or authorization may be required.*
+
 ![Sky Isles](shots/desktop-home.png)
 
 ## Why this repo matters
